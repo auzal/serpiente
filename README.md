@@ -4,7 +4,7 @@ serpiente de proyecto biopus
 nota: siempre la versión numérica mayor es la que va
 
 # instrucciones y notas motor de mapping
-• el estado del motor siempre está explicitado arriba a la izquierda⋅⋅
+• el estado del motor siempre está explicitado arriba a la izquierda  ⋅⋅
 • para cambiar de modo presionar 'm'⋅⋅
 
 • modo "point calibration": 
