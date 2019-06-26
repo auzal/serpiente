@@ -7,17 +7,17 @@ nota: siempre la versión numérica mayor es la que va
 • el estado del motor siempre está explicitado arriba a la izquierda  
 • para cambiar de modo presionar 'm'  
 
-• modo "point calibration":  
+### modo "point calibration":  
      • CLICK o ENTER en cualquier lado pone un punto en las coordenadas del mouse  
      • el punto seleccionado tiene un marcador alrededor  
      • TAB para ciclar el selector de puntos  
      • FLECHAS para mover el punto  
      • FLECHAS + SHIFT para mover el punto a incrementos mas grandes  
 
-• modo "triangle calibration":  
+### modo "triangle calibration":  
   • CLICK para agregar un punto a un triangulo. El punto que se agrega es el más cercano al mouse, marcado por una línea blanca. El sistema no permite que se agregue el mismo punto dos veces al mismo triángulo. Una vez que se agregaron tres puntos, aparece el triángulo creado.   
 
-• modo "running":  
+### modo "running":  
   • CLICK para disparar la animación en el triángulo cuyo centroide se encuentra más cerca al mouse  
 
 # cosas que faltan desarrollar
