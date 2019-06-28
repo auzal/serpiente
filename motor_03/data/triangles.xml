@@ -1,0 +1,21 @@
+<XML>
+<triangle point_0="2" point_1="1" point_2="0"  id="0"></triangle>
+<triangle point_0="3" point_1="4" point_2="5"  id="1"></triangle>
+<triangle point_0="15" point_1="14" point_2="13"  id="2"></triangle>
+<triangle point_0="4" point_1="12" point_2="3"  id="3"></triangle>
+<triangle point_0="11" point_1="9" point_2="3"  id="4"></triangle>
+<triangle point_0="10" point_1="9" point_2="2"  id="5"></triangle>
+<triangle point_0="0" point_1="8" point_2="6"  id="6"></triangle>
+<triangle point_0="7" point_1="1" point_2="0"  id="7"></triangle>
+<triangle point_0="15" point_1="5" point_2="4"  id="8"></triangle>
+<triangle point_0="13" point_1="4" point_2="15"  id="9"></triangle>
+<triangle point_0="13" point_1="4" point_2="12"  id="10"></triangle>
+<triangle point_0="3" point_1="9" point_2="1"  id="11"></triangle>
+<triangle point_0="1" point_1="2" point_2="9"  id="12"></triangle>
+<triangle point_0="7" point_1="5" point_2="1"  id="13"></triangle>
+<triangle point_0="1" point_1="3" point_2="5"  id="14"></triangle>
+<triangle point_0="7" point_1="6" point_2="0"  id="15"></triangle>
+<triangle point_0="0" point_1="8" point_2="2"  id="16"></triangle>
+<triangle point_0="6" point_1="7" point_2="5"  id="17"></triangle>
+<id_count>18</id_count>
+</XML>
