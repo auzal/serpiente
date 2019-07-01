@@ -1,0 +1,10 @@
+<XML>
+<triangle point_0="21" point_1="20" point_2="22"  id="0"></triangle>
+<triangle point_0="15" point_1="17" point_2="16"  id="2"></triangle>
+<triangle point_0="18" point_1="19" point_2="16"  id="3"></triangle>
+<triangle point_0="18" point_1="15" point_2="16"  id="4"></triangle>
+<triangle point_0="17" point_1="21" point_2="16"  id="5"></triangle>
+<triangle point_0="22" point_1="21" point_2="16"  id="6"></triangle>
+<triangle point_0="19" point_1="22" point_2="16"  id="7"></triangle>
+<id_count>9</id_count>
+</XML>
