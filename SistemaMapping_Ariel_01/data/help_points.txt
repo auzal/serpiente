@@ -1,0 +1,7 @@
+• CLICK o ENTER: agregar punto en posición del mouse  
+• TAB: ciclar el selector de puntos  
+• FLECHAS: mover punto  
+• FLECHAS + SHIFT: mover el punto a incrementos mayores
+• DELETE O BACKSPACE: borrar punto
+• H: mostar/ocultar ayuda
+• M: cambiar de modo  
