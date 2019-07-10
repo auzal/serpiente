@@ -1,0 +1,6 @@
+• CLICK: agregar punto a un triángulo. 
+El punto que se agrega es el más cercano al mouse.
+• TAB: ciclar el selector de triángulos 
+• DELETE o BACKSPACE: borrar triángulo.
+• H: mostar/ocultar ayuda
+• M cambiar de modo  

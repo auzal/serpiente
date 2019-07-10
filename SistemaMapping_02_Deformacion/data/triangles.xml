@@ -1,0 +1,63 @@
+<XML>
+<triangle point_0="21" point_1="17" point_2="16"  id="10">
+   <sensor id="10"></sensor>
+</triangle>
+<triangle point_0="16" point_1="21" point_2="20"  id="11">
+</triangle>
+<triangle point_0="16" point_1="22" point_2="20"  id="12">
+</triangle>
+<triangle point_0="20" point_1="28" point_2="22"  id="13">
+</triangle>
+<triangle point_0="19" point_1="16" point_2="22"  id="14">
+</triangle>
+<triangle point_0="32" point_1="22" point_2="19"  id="15">
+</triangle>
+<triangle point_0="29" point_1="22" point_2="28"  id="17">
+</triangle>
+<triangle point_0="28" point_1="30" point_2="29"  id="18">
+   <sensor id="10"></sensor>
+   <sensor id="66"></sensor>
+   <sensor id="34"></sensor>
+   <sensor id="45"></sensor>
+</triangle>
+<triangle point_0="29" point_1="30" point_2="31"  id="19">
+</triangle>
+<triangle point_0="19" point_1="32" point_2="18"  id="20">
+</triangle>
+<triangle point_0="15" point_1="18" point_2="16"  id="21">
+</triangle>
+<triangle point_0="16" point_1="17" point_2="15"  id="22">
+   <sensor id="10"></sensor>
+   <sensor id="66"></sensor>
+</triangle>
+<triangle point_0="16" point_1="19" point_2="18"  id="23">
+   <sensor id="48"></sensor>
+   <sensor id="24"></sensor>
+   <sensor id="12"></sensor>
+   <sensor id="96"></sensor>
+   <sensor id="66"></sensor>
+</triangle>
+<triangle point_0="35" point_1="32" point_2="22"  id="25">
+</triangle>
+<triangle point_0="22" point_1="29" point_2="35"  id="26">
+</triangle>
+<triangle point_0="35" point_1="34" point_2="29"  id="27">
+</triangle>
+<triangle point_0="29" point_1="31" point_2="34"  id="28">
+   <sensor id="10"></sensor>
+   <sensor id="66"></sensor>
+   <sensor id="12"></sensor>
+</triangle>
+<triangle point_0="34" point_1="32" point_2="35"  id="29">
+</triangle>
+<triangle point_0="32" point_1="33" point_2="18"  id="30">
+   <sensor id="33"></sensor>
+</triangle>
+<triangle point_0="15" point_1="18" point_2="33"  id="31">
+   <sensor id="10"></sensor>
+   <sensor id="66"></sensor>
+</triangle>
+<triangle point_0="33" point_1="32" point_2="34"  id="33">
+</triangle>
+<id_count>34</id_count>
+</XML>

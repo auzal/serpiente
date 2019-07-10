@@ -1,0 +1,7 @@
+<xml>
+    <inSensorOSC puerto="12345" ></inSensorOSC>
+    <inColorOSC puerto="8000" idLuz="1" ></inColorOSC>
+    <outEstadoOSC direccion="127.0.0.1" puerto="9000" identidad="cabeza" ></outEstadoOSC>
+    <inPingOSC puerto="10000" ></inPingOSC>
+    <outPongOSC direccion="127.0.0.1" puerto="10001" ></outPongOSC>
+</xml>
