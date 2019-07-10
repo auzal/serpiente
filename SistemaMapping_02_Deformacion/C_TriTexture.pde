@@ -26,6 +26,10 @@ void mostrarAyudaTexturas() {
   Xprint("T - texturiza triangulos");
   Xprint("A - ejecuta animación");
   Xprint("S - imagen grilla");
+  Xprint("FLECHAS - mover vértice textura");
+  Xprint("TAB - ciclar triángulos");
+  Xprint("1 - 2- 3 - ciclar vértices");
+  Xprint("DRAG - arrastrar vértice");
 }
 //===========================================================
 
